@@ -1,0 +1,10 @@
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\bin\Debug\netstandard2.0\StateLibrary.deps.json
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\bin\Debug\netstandard2.0\StateLibrary.dll
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\bin\Debug\netstandard2.0\StateLibrary.pdb
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\obj\Debug\netstandard2.0\StateLibrary.csproj.AssemblyReference.cache
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\obj\Debug\netstandard2.0\StateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\obj\Debug\netstandard2.0\StateLibrary.AssemblyInfoInputs.cache
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\obj\Debug\netstandard2.0\StateLibrary.AssemblyInfo.cs
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\obj\Debug\netstandard2.0\StateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\obj\Debug\netstandard2.0\StateLibrary.dll
+C:\Users\asher\source\repos\AStubbs-CPT-206-A80H-Lab3\StateLibrary\obj\Debug\netstandard2.0\StateLibrary.pdb
